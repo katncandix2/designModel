@@ -1,5 +1,5 @@
 <?php
-	include 'Shap_IMP_class.php';
+	include 'ShapeEntity.php';
 	class ShapeFactory{
 
 		public getShape($Type){
@@ -16,5 +16,3 @@
 			}
 		}
 	}
-
-	echo "string";

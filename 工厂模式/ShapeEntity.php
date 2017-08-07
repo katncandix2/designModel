@@ -1,5 +1,6 @@
 <?php
-	include 'Shap_interface.php';
+
+	include 'Shapeinterface.php';
 
 	class Rectangle implements Shape{
 		public void draw(){
